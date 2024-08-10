@@ -1,6 +1,6 @@
 Hello,
 
-[sample page](hhttps://oguzhanet.github.io/qrcode-menu/)
+[sample page](https://oguzhanet.github.io/qrcode-menu/)
 
 ### 1) Creating Google Sheets
 
