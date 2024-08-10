@@ -32,5 +32,5 @@ const id = 'id';
 We assign it to the relevant variable.
 
 ### Screenshot 
-![QR Code Menü Google Sheets](https://oguzhanet.github.io/qrcode-menu/screenshot.png?v=1)
+![QR Code Menü Google Sheets](https://github.com/oguzhanet/qrcode-menu/blob/main/screenshot.PNG)
 
